@@ -1,1 +1,1 @@
-# Deception Detection (Work in Progress)
+# Deception Detection (Work-in-Progress)
