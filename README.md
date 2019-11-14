@@ -28,7 +28,7 @@ Statement Count: Character & Word count
 
 General POS tagging (15 tags): adj., conjunction+ (i.e., "of", "about", "to", etc.), noun, number, & determiner (i.e., "a", "an", "the")
 
-Specific POS tagging (52 tags): ### cardinal numbers, determiners, conjunctions(subordinating or preposition), adjective(comparative), noun(singular or mass)
+Specific POS tagging (52 tags): cardinal numbers, determiners, conjunctions(subordinating or preposition), adjective(comparative), noun(singular or mass)
 
 NER: references to dates, percentages, numbers
 
