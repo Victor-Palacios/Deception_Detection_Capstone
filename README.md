@@ -1,4 +1,4 @@
-# Deception Detection Summary
+# Deception Detection Summary (THE INFO BELOW IS OUTDATED; please refer to the code directly while I update this section)
 
 ## Problem 1
     How does a liar's speech vary from a truth-teller?
